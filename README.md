@@ -1,4 +1,4 @@
-##PROYECTO INTEGRADOR CODO A CODO 
+## PROYECTO INTEGRADOR CODO A CODO 
 
 Proyecto creado para el curso PHP fullStack de Codo a codo
 
